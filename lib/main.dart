@@ -14,7 +14,7 @@ class QuoteList extends StatefulWidget {
 class _QuoteListState extends State<QuoteList> {
 
   List<Quote> quotes = [
-    Quote(text: 'What auu Tribute! Listen to what Senator', author: 'sami omer'),
+    Quote(text: 'akram mohamed auu Tribute! Listen to what Senator', author: 'sami omer'),
     Quote(text: 'Claude Pepper  as he calls him.', author: 'ahmed ali'),
     Quote(text: 'has to say about his won Teflon  Presiden,', author: 'mohaned osman'),
   ];
